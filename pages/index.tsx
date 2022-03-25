@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
-import FloatingButton from "../components/floating-button";
-import Item from "../components/item";
-import Layout from "../components/layout";
+import FloatingButton from "@components/floating-button";
+import Item from "@components/item";
+import Layout from "@components/layout";
 
 // [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1].map 
 // [...Array(10)].map
